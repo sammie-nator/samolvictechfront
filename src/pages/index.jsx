@@ -285,12 +285,12 @@ export function ServicesPage() {
               {
                 icon: Zap,
                 title: 'Offline-First',
-                description: 'Built for Africa's connectivity reality.'
+                description: 'Built for Africas connectivity reality.'
               },
               {
                 icon: CheckCircle,
                 title: 'Full Support',
-                description: 'From concept through maintenance. We\'ve got you.'
+                description: 'From concept through maintenance. Weve got you.'
               }
             ].map((reason, idx) => {
               const Icon = reason.icon
