@@ -72,7 +72,7 @@ export function AboutPage() {
               },
               {
                 title: 'Reliable',
-                description: 'We build for Africa's reality. Connectivity is optional. Your app works anyway.'
+                description: 'We build for Africas reality. Connectivity is optional. Your app works anyway.'
               },
               {
                 title: 'Accessible',
