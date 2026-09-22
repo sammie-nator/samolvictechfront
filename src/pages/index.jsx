@@ -76,7 +76,7 @@ export function AboutPage() {
               },
               {
                 title: 'Accessible',
-                description: 'Custom software shouldn't be expensive. We price fairly for SMEs.'
+                description: 'Custom software shouldnt be expensive. We price fairly for SMEs.'
               }
             ].map((value, idx) => (
               <Card key={idx}>
